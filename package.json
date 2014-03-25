@@ -1,0 +1,23 @@
+{
+    "name": "mocha-spec-cov",
+    "description": "Mocha spec report but with coverage output",
+    "version": "0.0.3",
+    "author": "Jake Mc<jake.mc@icloud.com>",
+    "keywords": [ "mocha", "coverage", "reporter", "spec", "cov"],
+    "dependencies": {
+      "mocha": "*"
+    },
+    "devDependencies": {
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "index.js",
+    "engines": { "node": ">= 0.6.0" },
+    "scripts": {
+    },
+  "repository" : {
+     "type" : "git",
+     "url" : "https://github.com/startswithaj/mocha-spec-cov"
+   }
+}
